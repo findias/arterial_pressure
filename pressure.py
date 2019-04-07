@@ -27,4 +27,5 @@ data_monitoring = [monitoring_date.strip(), systolic_pressure, diastolic_pressur
 path_monitoring = 'monitoring.csv'
 csv_writer(data_monitoring, path_monitoring)
 
+#Test
 print(data_monitoring)
